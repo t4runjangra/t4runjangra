@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF" />
 
 ---
-
+<div align="center">
 ### My GitHub Contributions Summary
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=t4runjangra&theme=dark&hide_border=false)
@@ -23,5 +23,5 @@ Welcome to my GitHub profile!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t4runjangra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=t4runjangra&icon=0&color=6)](https://visitcount.itsvg.in)
-
+</div>
 </div>
