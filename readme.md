@@ -32,11 +32,3 @@ I'm a self-taught developer passionate about programming, design, and building u
 </p>
 
 ---
-
-### 🧭 Visitor Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=t4runjangra&icon=0&color=6" alt="Visitor Count" />
-  </a>
-</p>
