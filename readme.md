@@ -32,14 +32,6 @@ I love experimenting with code, learning new technologies, and contributing to o
 
 ---
 
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4runjangra&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t4runjangra)
