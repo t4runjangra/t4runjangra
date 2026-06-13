@@ -32,6 +32,14 @@ I love experimenting with code, learning new technologies, and contributing to o
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=t4runjangra&show_icons=true&theme=dark" height="170" />
+  <img src="https://streak-stats.demolab.com?user=t4runjangra&theme=dark&hide_border=true" height="170" />
+</p>
+
+---
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t4runjangra)
