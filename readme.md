@@ -4,6 +4,12 @@ I'm a **self-taught developer** passionate about programming, design, and buildi
 I love experimenting with code, learning new technologies, and contributing to open-source projects.
 
 ---
+## 📚 Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-Learning-6E40C9?style=for-the-badge)
+
 
 ## 🛠️ Tech Stack
 
